@@ -13,6 +13,7 @@ Here is the list of technical objectives:
 - Google Cloud Vision
 - Google Cloud Translate
 - Google Cloud MemoryStore
+- Google Firebase Push Notifications
 - Netlify for hosting/deploying frontend
 - Must use react-unit-testing library for frontend testing
 
